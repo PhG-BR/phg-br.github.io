@@ -7,48 +7,279 @@
   			<text shortcut="" type="1">
   				<name><![CDATA[HEPRE_0]]></name>
   				<body><![CDATA[
-<!DOCTYPE html><html>
-      <head>
-        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-      </head>
-      <body>
-<div>
-      <table style="border: none;" width="100%" cellspacing="0" cellpadding="0">
-        <tbody>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="x-apple-disable-message-reformatting">
+    <title>HEPRE</title>
+    <!-- Web Font / @font-face : BEGIN -->
+    <!-- NOTE: If web fonts are not required, lines 10 - 27 can be safely removed. -->
+    <!-- Outlook tue les références aux polices Web et utilise par défaut Times New Roman, on fore donc une police de secours. -->
+    <!--[if mso]>
+    <style>
+      * {
+        font-family: sans-serif !important;
+      }
+    </style>
+  <![endif]-->
+    <!-- Tous les autres clients font référence à webfont; certains rendront la police et d'autres échoueront silencieusement... -->
+    <!--[if !mso]><!-->
+    <!-- insert web font reference, eg: <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'> -->
+    <!--<![endif]-->
+    <!-- Web Font / @font-face : END -->
+    <!-- CSS Reset : Début -->
+    <style>
+        html,
+        body {
+            margin: 10px auto !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+            /*font-family: courier*/
+        }
+
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        div[style*="margin: 16px 0"] {
+            margin: 0 !important;
+        }
+
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+
+        table table table {
+            table-layout: auto;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        *[x-apple-data-detectors],
+        /* iOS */
+        .unstyle-auto-detected-links *,
+        .aBn {
+            border-bottom: 0 !important;
+            cursor: default !important;
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        .a6S {
+            display: none !important;
+            opacity: 0.01 !important;
+        }
+
+        img.g-img+div {
+            display: none !important;
+        }
+    </style>
+    <!-- CSS Reset : Fin -->
+    <!-- Outlook ignore une grande partie de nos CSS en ligne... -->
+    <!--[if mso]>
+  <style type="text/css">
+    ul,
+    ol {
+      margin: 0 !important;
+    }
+    li {
+      margin-left: 30px !important;
+    }
+    li.list-item-first {
+      margin-top: 0 !important;
+    }
+    li.list-item-last {
+      margin-bottom: 10px !important;
+    }
+  </style>
+  <![endif]-->
+    <!-- Améliorations progressives : Début -->
+    <style>
+        .button-td,
+        .button-a {
+            transition: all 100ms ease-in;
+        }
+
+        .button-td-primary:hover,
+        .button-a-primary:hover {
+            background: #555555 !important;
+            border-color: #555555 !important;
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            background-image: linear-gradient(to right, rgba(0, 169, 224, 0), rgba(0, 169, 224, 1), rgba(0, 169, 224, 0));
+        }
+
+        a {
+            outline: none;
+            text-decoration: underline;
+        }
+
+        #titre {
+            margin: 1rem 0;
+            padding: 0 10px 5px 10px;
+            font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+            color: #333;
+            font-size: 1.25em;
+            line-height: 1.5;
+        }
+
+        #pied {
+            text-align: center;
+            color: #666
+        }
+    </style>
+    <style media="screen and (max-width:500px)"></style>
+    <style media="screen and (max-width:420px)">
+        #titre {
+            font-size: 1rem;
+        }
+
+        img {
+            max-height: 80px
+        }
+
+        #pied {
+            font-size: .9rem
+        }
+    </style>
+    <!-- Améliorations progressives : Fin -->
+    <!-- Rendu des images d'arrière-plan dans Outlook 72ppi à la taille correcte. -->
+    <!--[if gte mso 9]>
+  <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+  </xml>
+  <![endif]-->
+</head>
+
+<body style="margin: 0px; padding: 0px !important;font-size: 16px" width="100%" text="#000000" bgcolor="#E0F7FF">
+    <center style="width: 100%; background-color: #E0F7FF;">
+        <!--[if mso | IE]>
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #222222;">
           <tr>
-            <td style="font-size: 0;">&amp;​nbsp;</td>
-            <td style="color: black; padding: 10px; background: none repeat scroll 0 0 white; box-shadow: 0px 0px 10px 4px rgba(0, 0, 0, 0.2); position: relative;" width="540">
-              <table style="width: 100%; margin-left: auto; margin-right: auto;" cellpadding="3px">
-                <tbody>
-                  <tr>
-                    <td style="width: 80px;text-align: center;"><img alt="UNSA" src="https://cdn.unsa.org/logos/mail_LOGO_UNSA_2k19.svg"> </td>
-                    <td style="text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;"><span style="font-size: 16px; font-weight: 100;">Philippe GALLIARD</span> <br>
-                      <a style="font-weight: 100;text-decoration:none;color:#001E60;" href="tel:+33682848981"> <img alt="UNSA" src="https://cdn.unsa.org/logos/telephone.svg" width="16">+33 6 82 84 89 81 </a> <br>
-                      <br>
-                      <a href="mailto:philippe.galliard@unsa.org" style="text-decoration:none; color:#001E60; font-style: italic;font-weight: 100;font-size: .8rem;"> <img alt="UNSA" src="https://cdn.unsa.org/logos/mail.svg" style="margin-right: .5rem" width="16">philippe.galliard@unsa.org</a>
-                    </td>
-                    <td style="width: 80px;text-align: center;"> <img alt="UNSA" src="https://cdn.unsa.org/phg/phg-service.svg"> </td>
-                  </tr>
-                </tbody>
-              </table>
-              <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));">
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 10px 0 10px 0; text-align: center; font-size: 1.5em; font-weight: 400;">TITRE</p>
-              <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));">
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 0 0 12px 0; text-align: justify; line-height: 1.6; font-weight: 300;">Texte </p>
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 0 0 12px 0; text-align: justify; line-height: 1.6; font-weight: 300;">@+<br> Philippe </p>
-              <img src="https://cdn.unsa.org/logos/phg-signature-fond.svg" style="width: 100%;"> </td>
-            <td style="font-size: 0;"> </td>
-          </tr>
-          <tr>
-            <td style="font-size: 0;"> </td>
             <td>
-              <p style="text-align: center;font-size: .5rem;margin-top: 1em;">© <a href="https://reseaux.unsa.org/">UNSA</a> 2023</p>
-            </td>
-            <td style="font-size: 0;"> </td>
-          </tr>
-        </tbody>
+        <![endif]-->
+        <!-- Texte avant-poste caché visuellement : Début -->
+        <div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0;
+        overflow: hidden; mso-hide: all; font-family: sans-serif;"> HEPRE </div>
+        <!-- Texte avant-poste caché visuellement : Fin -->
+        <!-- Hack : Début -->
+        <div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0;
+        overflow: hidden; mso-hide: all; font-family: sans-serif;"> ‌ ‌</div>
+        <!-- Hack : Fin -->
+        <!--
+      Définissez la largeur du courriel. Défini à deux endroits:
+      1. max-width pour tous les clients, à l'exception d'Outlook, <= 680px.
+      2. Les balises MSO pour Outlook appliquent une largeur de 680px.
+      Remarque: Les modèles Fluid et Responsive ont une largeur différente (600px). La grille hybride est plus "fragile" et j'ai trouvé que 680px est une bonne largeur. Changer avec prudence.
+    -->
+        <div style="max-width: 540px; margin: 0 auto;background: #fff;">
+            <!--[if mso]>
+      <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="680">
+      <tr>
+      <td>
+      <![endif]-->
+            <!-- Corps du courriel : Début -->
+            <table role="presentation" style="margin: 0 auto;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <!-- En-tête : Début -->
+                <tbody>
+                    <tr>
+                        <td style="vertical-align: baseline;text-align: center;padding-top: .5rem;"> <img alt="HEPRE" src="HEPRE.svg" style="float: left;height: 100px; padding: 0px 10px;" border="0">
+                            <p id="titre"><em>Les Hébergeurs<br>
+                                    en Pays Rochefortais<br>
+                                    et Environs</em></p>
+                            <hr>
+                        </td>
+                    </tr>
+                    <!-- En-tête : Fin -->
+                    <!-- Texte : Début -->
+                    <tr>
+                        <td style="background-color: #ffffff;">
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                <tbody>
+                                    <tr>
+                                        <td style="padding: 20px; font-family: Helvetica, Arial, sans-serif; font-size: 15px; line-height:
+                        20px; color: #555555;">
+                                            <p style="font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue,
+                          Arial, sans-serif;margin: 0 0 12px 0; line-height: 1.6;font-size: 1.1rem;"> TEXTE </p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- Clear : Début -->
+                    <tr>
+                        <td aria-hidden="true" style="font-size: 0px; line-height: 0px;" height="10">   </td>
+                    </tr>
+                    <!-- Clear : Fin -->
+                </tbody>
+            </table>
+            <!-- Corps du courriel : Fin -->
+            <!-- Pied : Début -->
+            <table role="presentation" style="max-width: 540px;" width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tbody>
+                    <tr>
+                        <td style="padding: 0 1rem 0 1rem; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+                Helvetica Neue,Arial, sans-serif; margin: 0 0 1rem 0; line-height: 1.6; text-align: center;color:
+                #888888;">
+                            <hr>
+                            <p id="pied"><em>Association loi 1901 n° W171000703</em><br>
+                                8 bis rue de la Fée au bois - 17450 FOURAS<br>
+                                <a style="color: #aaa;" href="mailto:asso.hepre17@gmail.com" class="moz-txt-link-freetext">asso.hepre17@gmail.com</a>
+                            </p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <!-- Pied : Fin -->
+            <!--[if mso]>
+      </td>
+      </tr>
       </table>
-    </div>]]></body>
+      <![endif]-->
+        </div>
+        <!--[if mso | IE]>
+  </td>
+  </tr>
+  </table>
+  <![endif]-->
+    </center>
+    <p> </p>
+</body>
+
+</html>
   			</text>
   		</texts>
 	</menu>
