@@ -15,13 +15,12 @@
               <table style="width: 100%; margin-left: auto; margin-right: auto;" cellpadding="3px">
                 <tbody>
                   <tr>
-                    <td style="width: 80px;text-align: center;"><img alt="UNSA" src="https://cdn.unsa.org/logos/mail_LOGO_UNSA_2k19.svg"> </td>
-                    <td style="text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;"><span style="font-size: 16px; font-weight: 100;">Philippe GALLIARD</span> <br>
-                      <a style="font-weight: 100;text-decoration:none;color:#001E60;" href="tel:+33682848981"> <img alt="UNSA" src="https://cdn.unsa.org/logos/telephone.svg" width="16">+33 6 82 84 89 81 </a> <br>
+                    <td style="width: 80px;text-align: center;"><img alt="UB" src="https://phg-br.github.io/UB/Logo_UB-v1.svg"> </td>
+                    <td style="text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;"><span style="font-size: 16px; font-weight: 100;">Frédérike GROLIER</span> <br>
+                      <a style="font-weight: 100;text-decoration:none;color:#001E60;" href="tel:+33682848981"> <img alt="UNSA" src="https://cdn.unsa.org/logos/telephone.svg" width="16">+33 6 11 71 20 20 </a> <br>
                       <br>
-                      <a href="mailto:philippe.galliard@unsa.org" style="text-decoration:none; color:#001E60; font-style: italic;font-weight: 100;font-size: .8rem;"> <img alt="UNSA" src="https://cdn.unsa.org/logos/mail.svg" style="margin-right: .5rem" width="16">philippe.galliard@unsa.org</a>
+                      <a href="mailto:frederike.grolier@gmail.com" style="text-decoration:none; color:#001E60; font-style: italic;font-weight: 100;font-size: .8rem;"> <img alt="UNSA" src="https://cdn.unsa.org/logos/mail.svg" style="margin-right: .5rem" width="16">frederike.grolier@gmail.com</a>
                     </td>
-                    <td style="width: 80px;text-align: center;"> <img alt="UNSA" src="https://cdn.unsa.org/phg/phg-service.svg"> </td>
                   </tr>
                 </tbody>
               </table>
@@ -29,14 +28,14 @@
               <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 10px 0 10px 0; text-align: center; font-size: 1.5em; font-weight: 400;">TITRE</p>
               <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));">
               <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 0 0 12px 0; text-align: justify; line-height: 1.6; font-weight: 300;">Texte </p>
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 0 0 12px 0; text-align: justify; line-height: 1.6; font-weight: 300;">@+<br> Philippe </p>
-              <img src="https://cdn.unsa.org/logos/phg-signature-fond.svg" style="width: 100%;"> </td>
+              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 0 0 12px 0; text-align: justify; line-height: 1.6; font-weight: 300;">@+<br> Frédérike </p>
+</td>
             <td style="font-size: 0;"> </td>
           </tr>
           <tr>
             <td style="font-size: 0;"> </td>
             <td>
-              <p style="text-align: center;font-size: .5rem;margin-top: 1em;">© <a href="https://reseaux.unsa.org/">UNSA</a> 2023</p>
+              <p style="text-align: center;font-size: .5rem;margin-top: 1em;">© UB</a> 2024</p>
             </td>
             <td style="font-size: 0;"> </td>
           </tr>
