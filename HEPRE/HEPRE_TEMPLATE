@@ -5,8 +5,14 @@
   		<title><![CDATA[HEPRE]]></title>
   		<texts>
   			<text shortcut="" type="1">
-  				<name><![CDATA[HEPRE]]></name>
-  				<body><![CDATA[<div>
+  				<name><![CDATA[HEPRE_0]]></name>
+  				<body><![CDATA[
+<!DOCTYPE html><html>
+      <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      </head>
+      <body>
+<div>
       <table style="border: none;" width="100%" cellspacing="0" cellpadding="0">
         <tbody>
           <tr>
