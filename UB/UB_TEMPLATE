@@ -6,7 +6,7 @@
   		<texts>
   			<text shortcut="" type="1">
   				<name><![CDATA[UB_0]]></name>
-  				<![CDATA[<body style="background: #bee1dd66"><div>
+  				<body><![CDATA[<div>
         <table style="border: none;" width="100%" cellspacing="0" cellpadding="0">
             <tbody>
                 <tr>
@@ -41,7 +41,7 @@
                 </tr>
             </tbody>
         </table>
-    </div></body>]]>
+    </div>]]></body>
   			</text>
   		</texts>
 	</menu>
