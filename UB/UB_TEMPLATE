@@ -6,40 +6,41 @@
   		<texts>
   			<text shortcut="" type="1">
   				<name><![CDATA[UB_0]]></name>
-  				<body><![CDATA[<div>
-      <table style="border: none;" width="100%" cellspacing="0" cellpadding="0">
-        <tbody>
-          <tr>
-            <td style="font-size: 0;">&amp;​nbsp;</td>
-            <td style="color: black; padding: 10px; background: none repeat scroll 0 0 white; box-shadow: 0px 0px 10px 4px rgba(0, 0, 0, 0.2); position: relative;" width="540">
-              <table style="width: 100%; margin-left: auto; margin-right: auto;" cellpadding="3px">
-                <tbody>
-                  <tr>
-                    <td style="width: 80px;text-align: center;"><img alt="UB" src="https://phg-br.github.io/UB/Logo_UB-v1.svg"> </td>
-                    <td style="text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;"><span style="font-size: 16px; font-weight: 100;">Les Universités de la Biodiversité</span> <br>
-                      <br>
-                      <a href="mailto:les.universites.biodiversite@gmail.com" style="text-decoration:none; color:#001E60; font-style: italic;font-weight: 100;font-size: .8rem;"> <img alt="UB" src="https://phg-br.github.io/UB/mail.svg" style="margin-right: .5rem" width="16">les.universites.biodiversite@gmail.com</a>
+  				<body style="background: #bee1dd66"><![CDATA[<div>
+        <table style="border: none;" width="100%" cellspacing="0" cellpadding="0">
+            <tbody>
+                <tr>
+                    <td style="font-size: 0;">&amp;​nbsp;</td>
+                    <td style="color: black; padding: 10px; background: none repeat scroll 0 0 white; box-shadow: 0px 0px 10px 4px rgba(0, 0, 0, 0.2); position: relative;" width="540">
+                        <table style="width: 100%; margin-left: auto; margin-right: auto;" cellpadding="3px">
+                            <tbody>
+                                <tr>
+                                    <td style="width: 80px;text-align: center;"><img alt="UB" src="https://phg-br.github.io/UB/Logo_UB-v1.svg" moz-do-not-send="true"> </td>
+                                    <td style="text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;"><span style="font-size: 1.75rem; font-weight: 400;">Les Universités de la Biodiversité</span> <br>
+                                        <br>
+                                        <a href="mailto:les.universites.biodiversite@gmail.com" style="text-decoration:none; color:#001E60; font-style: italic;font-weight: 100;font-size: 1rem;"> <img alt="UB" src="https://phg-br.github.io/UB/mail.svg" style="margin-right: .5rem" width="16" moz-do-not-send="true" border="0">les.universites.biodiversite@gmail.com</a> </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0,176,166, 0), rgba(0,176,166, 0.25), rgba(0,176,166, 0));">
+                        <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 10px 0 10px 0; text-align: center; font-size: 1.5em; font-weight: 400;">TITRE</p>
+                        <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0,176,166, 0), rgba(0,176,166, 0.25), rgba(0,176,166, 0));">
+                        <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 0 0 12px 0; text-align: justify; line-height: 1.6; font-weight: 300;">Texte
+                        </p>
+                        <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 0 0 12px 0; text-align: justify; line-height: 1.6; font-weight: 300;">@+<br>
+                            Frédérike </p>
                     </td>
-                  </tr>
-                </tbody>
-              </table>
-              <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));">
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 10px 0 10px 0; text-align: center; font-size: 1.5em; font-weight: 400;">TITRE</p>
-              <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));">
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 0 0 12px 0; text-align: justify; line-height: 1.6; font-weight: 300;">Texte </p>
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; margin: 0 0 12px 0; text-align: justify; line-height: 1.6; font-weight: 300;">@+<br> Frédérike </p>
-</td>
-            <td style="font-size: 0;"> </td>
-          </tr>
-          <tr>
-            <td style="font-size: 0;"> </td>
-            <td>
-              <p style="text-align: center;font-size: .5rem;margin-top: 1em;">© UB</a> 2024</p>
-            </td>
-            <td style="font-size: 0;"> </td>
-          </tr>
-        </tbody>
-      </table>
+                    <td style="font-size: 0;"> </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 0;"> </td>
+                    <td>
+                        <p style="text-align: center;font-size: .5rem;margin-top: 1em;">© UB 2024</p>
+                    </td>
+                    <td style="font-size: 0;"> </td>
+                </tr>
+            </tbody>
+        </table>
     </div>]]></body>
   			</text>
   		</texts>
