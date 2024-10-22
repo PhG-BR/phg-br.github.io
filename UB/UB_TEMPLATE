@@ -24,13 +24,8 @@
                             <tbody>
                                 <tr>
                                     <td style="width: 80px;text-align: center;"><a href="https://www.lesub.net/"><img alt="UB" src="https://phg-br.github.io/UB/Logo_UB-v1.svg"></a></td>
-                                    <td style="text-align: center; font-family: 'Times New Roman', Times, serif;"><span style="font-size: 1.75rem; font-weight: 400;">Les Universités de la Biodiversité</span>
-                                        <br>
-                                        <br>
-                                        <a href="mailto:les.universites.biodiversite@gmail.com" style="text-decoration:none; color:#001E60; font-style: italic;font-weight: 100;font-size: 1rem;">
-                                            <img alt="UB" src="https://phg-br.github.io/UB/mail.svg" style="margin-right: .5rem" width="16" border="0">
-                                            les.universites.biodiversite@gmail.com
-                                        </a>
+                                    <td style="text-align: center; font-family: 'Times New Roman', Times, serif;">
+					<span style="font-size: 1.75rem; font-weight: 400;">Les Universités de la Biodiversité</span>
                                     </td>
                                 </tr>
                             </tbody>
@@ -51,7 +46,7 @@
                             &#128205;
                             <a href="https://osm.org/go/eqszF5jH?m=">
                                 <span style="font-style: italic">
-                                    2 Quai aux Vivres - 17300 Rochefort
+                                    Forum des Marais - 2 Quai aux Vivres - 17300 Rochefort
                                 </span>
                             </a>
                         </p>
@@ -63,7 +58,8 @@
                             <br>
                             <span style="color: #e94200">&#9993;&nbsp;</span>
                             <span style="font-style: italic;">
-                                Je ne souhaite plus recevoir ces informations.
+                                <a href="mailto:ub.rochefort@gmail.com?subject=Désabonnement">Je ne souhaite plus recevoir
+                  ces informations.</a>
                             </span>
                         </p>
                     </td>
