@@ -188,7 +188,7 @@
                 <!-- En-tête : Début -->
                 <tbody>
                     <tr>
-                        <td style="vertical-align: baseline;text-align: center;padding-top: .5rem;"> <img alt="HEPRE" src="HEPRE.svg" style="float: left;height: 100px; padding: 0px 10px;" border="0">
+                        <td style="vertical-align: baseline;text-align: center;padding-top: .5rem;"> <img alt="HEPRE" src="https://phg-br.github.io/HEPRE/HEPRE.png" style="float: left;height: 100px; padding: 0px 10px;" border="0">
                             <p id="titre"><em>Les Hébergeurs<br>
                                     en Pays Rochefortais<br>
                                     et Environs</em></p>
