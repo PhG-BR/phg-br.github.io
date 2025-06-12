@@ -1,7 +1,7 @@
 // Configurer le centre initial de la carte et le niveau de zoom
 var map = L.map('map', {
     center: [45.93, -0.97], // MODIFIER la latitude, la longitude pour recentrer la carte
-    zoom: 12, // MODIFIER de 1 à 18 -- diminuer pour effectuer un zoom arrière, augmenter pour effectuer un zoom avant
+    zoom: 11, // MODIFIER de 1 à 18 -- diminuer pour effectuer un zoom arrière, augmenter pour effectuer un zoom avant
     scrollWheelZoom: true,
     tap: false
 });
