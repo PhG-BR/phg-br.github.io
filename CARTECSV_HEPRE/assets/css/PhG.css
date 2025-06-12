@@ -1,0 +1,117 @@
+:root {
+    --bleu-unsa: #00a9e0;
+    --rouge-unsa: #e64428;
+}
+
+html,
+body,
+#map {
+    height: 100%;
+    width: 100vw;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar {
+    border: 2px solid var(--bleu-unsa);
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+    font-weight: bold;
+    font-size: 2rem;
+    right: 4px;
+    color: var(--bleu-unsa);
+}
+
+.leaflet-container a.leaflet-popup-close-button:hover {
+    color: var(--rouge-unsa);
+}
+
+.leaflet-control-attribution {
+    border-top: 2px solid var(--bleu-unsa);
+    border-left: 2px solid var(--bleu-unsa);
+}
+
+.legend {
+    max-width: 110px;
+    padding: .5rem;
+    background: #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border: 2px solid var(--bleu-unsa);
+    border-radius: 5px;
+    line-height: 1.5rem;
+    text-align: center;
+}
+
+input {
+    cursor: pointer;
+}
+
+input[type=button] {
+    border: 1px solid var(--bleu-unsa);
+    background: var(--bleu-unsa);
+    border-radius: 4px;
+    color: #fff;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+input[type=button]:hover {
+    border: 1px solid var(--rouge-unsa);
+    background: var(--rouge-unsa);
+}
+
+input[type=button]:focus {
+    border: 1px solid var(--rouge-unsa);
+    background: #13235A;
+}
+
+/* TOOLTIP */
+.leaflet-tooltip {
+    font-size: .8rem;
+    margin: -32px 0 0 0;
+    background-color: white;
+    padding: 4px 1rem 4px 1rem;
+    border: 0px solid #000;
+    color: #333;
+    box-shadow: 0 1px 3px rgba(230, 68, 40, 0.4);
+}
+
+.leaflet-tooltip a {
+    cursor: help;
+}
+
+.leaflet-tooltip-left {
+    margin-left: -24px;
+}
+
+.leaflet-tooltip-right {
+    margin-left: 24px;
+}
+
+.leaflet-tooltip-left:before {
+    right: 0;
+    margin-right: -12px;
+    border-left-color: #E64428;
+}
+
+.leaflet-tooltip-right:before {
+    left: 0;
+    margin-left: -12px;
+    border-right-color: #E64428;
+}
