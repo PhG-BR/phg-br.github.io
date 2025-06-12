@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>Générer une carte via Leaflet avec import csv</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <!-- Charger la bibliothèque de codes Leaflet - voir les mises à jour sur https://leafletjs.com/download.html -->
+    <link rel="stylesheet" href="./assets/leaflet/leaflet.css" />
+    <script src="./assets/leaflet/leaflet.js"></script>
+    <link rel="stylesheet" href="./assets/MarkerCluster/MarkerCluster.css" />
+    <link rel="stylesheet" href="./assets/MarkerCluster/MarkerCluster.PhG.css" />
+    <link rel="stylesheet" href="./assets/css/PhG.css" />
+    <script src="./assets/MarkerCluster/leaflet.markercluster-src.js"></script>
+    <!-- Charger jQuery et PapaParse pour lire les données d'un fichier CSV -->
+    <script src="./assets/js/jquery-3.7.1.min.js"></script>
+    <script src="./assets/js/papaparse.min.js"></script>
+</head>
+
+<body>
+    <!-- Insérer une div HTML pour mettre en page la carte-->
+    <div id="map"></div>
+    <!-- Données du fond de carte FRANCE DÉPARTEMENTS-->
+    <!--  https://adresse.data.gouv.fr/outils/csv -->
+    <script type="text/javascript" src="./assets/js/FR.js"></script>
+    <!-- Insérez le code Javascript (.js) pour créer la carte -->
+    <script type="text/javascript" src="./assets/js/core.js"></script>
+</body>
+
+</html>
