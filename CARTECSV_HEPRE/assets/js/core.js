@@ -77,4 +77,4 @@ $.get('./datas/HEPRE_ADHÉRENTS _2024.geocoded.csv', function(csvString) {
 });
 map.addLayer(markers);
 
-map.attributionControl.addAttribution('PhG - Unsa 2k25');
+map.attributionControl.addAttribution('PhG - 2k25');
